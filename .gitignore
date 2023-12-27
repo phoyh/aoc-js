@@ -1,0 +1,7 @@
+.project
+.settings
+/input.txt
+/minInput.txt
+/main.js
+node_modules/
+package-lock.json

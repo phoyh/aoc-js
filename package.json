@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "test/**"
+  },
+  "scripts": {
+    "test": "mocha --recursive",
+   	"doc": "node -i tools/apiListGenerator.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
