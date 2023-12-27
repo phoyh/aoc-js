@@ -2,8 +2,8 @@
   "name": "adventofcode",
   "version": "1.0.0",
   "devDependencies": {
-    "chai": "*",
-    "mocha": "*"
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
   },
   "description": "",
   "main": "main.js",
@@ -12,7 +12,7 @@
   },
   "scripts": {
     "test": "mocha --recursive",
-   	"doc": "node -i tools/apiListGenerator.js"
+    "doc": "node -i tools/apiListGenerator.js"
   },
   "author": "",
   "license": "ISC"
